@@ -3,7 +3,7 @@
 -------------------------------------------------------
 
 ## STATUS
-The software will be released after pending publications (article and PhD thesis).
+The software will be released after pending publications (PhD thesis).
 
 In meantime, contact vitor.fa.morais@gmail.com for a fork version of the software.
 
@@ -36,15 +36,21 @@ appropriate paper(s) and the software itself.
 All publications derived from the use of this software, or the included data
 files, should cite the following papers:
 
+>   Vítor A. Morais and João L. Afonso and António P. Martins, "Towards Smart Railways: A Charging
+    Strategy for Railway Energy Storage Systems," *EAI Endorsed Transactions on Energy Web*, ew:18, e11,
+    jan. 2021.  
+    doi: [10.4108/eai.14-1-2021.168136][2]
+
 >   Vítor A. Morais and João L. Afonso and António P. Martins, "Towards Smart Railways: 
     A Charging Strategy for On-Board Energy Storage Systems," *Lecture Notes of the Institute
     for Computer Sciences, Social Informatics and Telecommunications Engineering*, pp. 33-46,
     may. 2020.  
-    doi: [10.1007/978-3-030-45694-8_3][2]
+    doi: [10.1007/978-3-030-45694-8_3][3]
     
 ---
 
 [1]: https://github.com/vitormorais/railway_charging_ESS/raw/main/_accets/train_ESS_architecture.png
-[2]: https://doi.org/10.1007/978-3-030-45694-8_3
+[2]: http://dx.doi.org/10.4108/eai.14-1-2021.168136
+[3]: https://doi.org/10.1007/978-3-030-45694-8_3
 
 [diagram]: _accets/train_ESS_architecture.png
