@@ -3,7 +3,8 @@
 -------------------------------------------------------
 
 ## STATUS
-The software will be released after pending publications (article and PhD thesis)
+The software will be released after pending publications (article and PhD thesis).
+
 In meantime, contact vitor.fa.morais@gmail.com for a fork version of the software.
 
 -------------------------------------------------------
